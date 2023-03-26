@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/thesoftsphere/static/js/main.c08e180f.js",
+    "static/js/756.1fd6c333.chunk.js": "/thesoftsphere/static/js/756.1fd6c333.chunk.js",
+    "static/js/787.d7eafd0a.chunk.js": "/thesoftsphere/static/js/787.d7eafd0a.chunk.js",
+    "index.html": "/thesoftsphere/index.html",
+    "main.c08e180f.js.map": "/thesoftsphere/static/js/main.c08e180f.js.map",
+    "756.1fd6c333.chunk.js.map": "/thesoftsphere/static/js/756.1fd6c333.chunk.js.map",
+    "787.d7eafd0a.chunk.js.map": "/thesoftsphere/static/js/787.d7eafd0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c08e180f.js"
+  ]
+}
